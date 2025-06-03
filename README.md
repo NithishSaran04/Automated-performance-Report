@@ -8,6 +8,8 @@ This project showcases a fully automated Power BI dashboard built for tracking w
 
 Designed to assist shift engineers and managers, this solution enables fast, data-driven decisions by visualizing key metrics like OEE, Availability, Performance, Rework %, and Schedule Adherence.
 
+Link to Dashboard: https://ssninstitute-my.sharepoint.com/:u:/g/personal/nithis2110381_ssn_edu_in/EWDPHMSAN8ZDqISRZsdCAl8BunngDujEmNtmIDZuTDGJWw?e=1rQJOA
+
 ---
 
 Problem Statement
