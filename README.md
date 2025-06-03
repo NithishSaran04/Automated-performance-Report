@@ -1,6 +1,6 @@
 Production Performance Dashboard – Power BI Automation
 
-![Dashboard Screenshot](./dashboard.png)
+![Dashboard Screenshot](Dashboard.png)
 
 📊 Overview
 
